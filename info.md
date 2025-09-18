@@ -67,12 +67,12 @@ co nezapomenout:
 - powerbanka - elektronika se da dobijet pouze pokud bezi motor, coz bude, doufejme, jen zridkakdy
 
 ### co NENI nutne brat
-- spacak - luzkoviny budou
+- spacak - luzkoviny budou (TODO jeste musim overit)
 - "velkou" lekarnicku - staci jen osobni leky atd.
 - knihy - klidne si samozrejme vezmete, ale neberte celou khihovnu. na lodi nebyva moc prilezitosti pro klidnou cetbu a navic cteni na vecne se houpajici barce nedela mnoha lidem dobre
 
 ### centralni zasoby (vezme pouze poverena osoba)
-- velka lekarnicka - vezme xxx
-- spolecenske hry - vezme xxx
+- velka lekarnicka - vezme TODO
+- spolecenske hry - vezme TODO
 - velky reprak - vezme kapitan
 
