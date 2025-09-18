@@ -74,8 +74,10 @@ co nezapomenout:
 - knihy - klidne si samozrejme vezmete, ale neberte celou khihovnu. na lodi nebyva moc prilezitosti pro klidnou cetbu a navic cteni na vecne se houpajici barce nedela mnoha lidem dobre
 
 ### centralni zasoby (vezme pouze poverena osoba)
-- velka lekarnicka - vezme TODO
-- spolecenske hry - vezme TODO
+- zaklad kychyne (koreni, sul, atd.) - vezme market
+- velka lekarnicka - vezme market
+- spolecenske hry - vezme market
+- kytara - vezme stepik
 - velky reprak - vezme kapitan
 
 ## dalsi informace
