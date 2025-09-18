@@ -10,11 +10,13 @@ vsechna hlavni jidla (snidane, obed, vecere) jsou spolecna. samozrejme se to muz
 
 primarni motivaci je, ale byl neustale urcen nekdo zodpovedny za tyhle zakladni veci a ja mel k dispozici ostatni na pripadnou pomoc s lodi atd. ...plus se tim eliminuji nektere zbytecne diskuze. ;-)
 
-### nakup
+## nakup(y)
 
 velky nakup vetsinou delame az v sibeniku tesne pred odjezdem, abychom nemeli preplnene auto, ale pokud ma nekdo tunu predvareneho jidla, samozrejme to vezmeme s sebou uz z prahy a cast nakupu pak odpadne. neni ale nutne to prilis resit predem - vse se da dokoupit na miste.
 
 jedinou vyjimkou je asi pivo, ktere je objektivne nejevnejsi v cesku. ale na druhou stranu, chorvatske vino taky neni spatne a je podstatne skladnejsi.
+
+dalsi nakupy jsou pak mozne i behem plavby, ale obchody byvaji spatne dostupne nebo jsou drahe.
 
 konkretni detaily probereme na whatsappu.
 
@@ -76,3 +78,6 @@ co nezapomenout:
 - spolecenske hry - vezme TODO
 - velky reprak - vezme kapitan
 
+## dalsi informace
+
+nejake specialni pojisteni neni nutne resit - pojistil jsem celou posadku pro pripad nehody nebo zachrany. bezna cestovni pojisteni toto stejne vetsinou nekryji, protoze povazuji jachting za rizikovy sport. samozrejme to ale nekryje presun do chorvatska a zpet. nekryje to ani jine zdravotni komplikace nebo urazy pri plavbe (kdyz neni nehoda lode), takze pokud chcete mit uplny klid, klidne se cestovne pojistete.
