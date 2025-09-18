@@ -1,5 +1,5 @@
 work in progress - prijimam pripominky
-## vareni a sluzby
+## sluzby (wachty) a vareni
 
 jedeme podle systemu, ktery me naucili polaci - kazdy den ma sluzbu (=wachtu) jina dvojice (od vareni po uklid) a zbytek ma volno.
 
