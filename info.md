@@ -16,6 +16,7 @@ velky nakup vetsinou delame az v sibeniku tesne pred odjezdem, abychom nemeli pr
 jedinou vyjimkou je asi pivo, ktere je objektivne nejevnejsi v cesku. ale na druhou stranu, chorvatske vino taky neni spatne a je podstatne skladnejsi.
 
 konkretni detaily probereme na whatsappu.
+
 ## finance
 
 naklady se deli rovnomerne. v marinach de-facto nejsme, jen pokud treba dojde voda nebo je spatne pocasi nebo se proste neda jinak... tzn. v ramci moznosti je to low-cost. ;-)
