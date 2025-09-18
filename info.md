@@ -4,7 +4,7 @@ work in progress - prijimam pripominky
 
 jedeme podle systemu, ktery me naucili polaci - kazdy den ma sluzbu (=wachtu) jina dvojice (od vareni po uklid) a zbytek ma volno.
 
-pri nasem poctu pak kazdemu vychazi na vic volna nez prace, coz je fajn...
+pri nasem poctu pak kazdemu vychazi na vic volna nez prace, coz je fajn... mimochodem, obcas se tenhle system zvrhne v neoficialni soutez a k jidlu pak jsou nevidane delikatesy. ;-)
 
 vsechna hlavni jidla (snidane, obed, vecere) jsou spolecna. samozrejme se to muze podle situace dohodnout jinak, ale tohle je vychozi stav. pokud ma nekdo specialni dietni pozadavky, dohodne se individualne se sluzbou.
 
