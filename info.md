@@ -69,4 +69,10 @@ co nezapomenout:
 ### co NENI nutne brat
 - spacak - luzkoviny budou
 - "velkou" lekarnicku - staci jen osobni leky atd.
+- knihy - klidne si samozrejme vezmete, ale neberte celou khihovnu. na lodi nebyva moc prilezitosti pro klidnou cetbu a navic cteni na vecne se houpajici barce nedela mnoha lidem dobre
+
+### centralni zasoby (vezme pouze poverena osoba)
+- velka lekarnicka - vezme xxx
+- spolecenske hry - vezme xxx
+- velky reprak - vezme kapitan
 
