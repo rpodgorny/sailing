@@ -63,4 +63,8 @@ co nezapomenout:
 ### ostatni
 - eura - daji se vybrat v bankomatu, ale za poplatek
 - kinedril - pro suchozemsky krysy ;-)
+- spunty do usi - spolukajutnik muze chrapat nebo bude treba celou noc foukat meluzina
+- powerbanka - elektronika se da dobijet pouze pokud bezi motor, coz bude, doufejme, jen zridkakdy
+- NENI nutne brat spacak - luzkoviny budou
+
 
