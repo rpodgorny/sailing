@@ -1,4 +1,5 @@
 work in progress - prijimam pripominky
+
 ## sluzby (wachty) a vareni
 
 jedeme podle systemu, ktery me naucili polaci - kazdy den ma sluzbu (=wachtu) jina dvojice (od vareni po uklid) a zbytek ma volno.
@@ -22,6 +23,7 @@ konkretni detaily probereme na whatsappu.
 naklady se deli rovnomerne. v marinach de-facto nejsme, jen pokud treba dojde voda nebo je spatne pocasi nebo se proste neda jinak... tzn. v ramci moznosti je to low-cost. ;-)
 
 na sledovani vydaju zalozim sdileny ucet v "settle up" a budu ho se vsemi sdilet.
+
 ## rezim plavby
 
 za sebe, hodlam co nejvic plachtit a zkouset ruzne techniky a treninky, ale samozrejme to prizpusobim posadce.
@@ -29,6 +31,7 @@ za sebe, hodlam co nejvic plachtit a zkouset ruzne techniky a treninky, ale samo
 destinaci urcim az tesne pred vyplutim podle pocasi, ale obecne jedu zhruba podle pravidla "nejdriv co nejdal proti vetru a zpatky pak v klidu s rezervou".
 
 pokud bude nekdo z posadky chtit na nejake specificke misto nebo se treba vic poflakovat v zatokach, necht se ozve a ja se pokusim to prizpusobit.
+
 ## co s sebou
 
 co nejmene zbytecnosti. vetsinu kosmetiky mohou damy nechat doma. ;-) veci "co kdyby to nahodou bylo potreba" nechte tez ve skrini.
@@ -38,6 +41,7 @@ jako zavazadlo treba velkou sportovni tasku nebo krosnu, furt spis ne - blbe se 
 vzhledem k tomu, ze jedeme dost po sezone, hrozi realna moznost "ne moc pekneho" pocasi vcetne deste, chladu a neustaleho vetru. :-( ani to nas ale nerozhodi, kdyz se dobre oblekneme...
 
 co nezapomenout:
+
 ### do spatneho pocasi
 - plastenku nebo neco nepromokaveho od hlavy k pate - cim vice prilehave, tim lepe (jinak to vlaje ve vetru)
 - holinky
