@@ -65,6 +65,8 @@ co nezapomenout:
 - kinedril - pro suchozemsky krysy ;-)
 - spunty do usi - spolukajutnik muze chrapat nebo bude treba celou noc foukat meluzina
 - powerbanka - elektronika se da dobijet pouze pokud bezi motor, coz bude, doufejme, jen zridkakdy
-- NENI nutne brat spacak - luzkoviny budou
 
+### co NENI nutne brat
+- spacak - luzkoviny budou
+- "velkou" lekarnicku - staci jen osobni leky atd.
 
