@@ -9,6 +9,8 @@ vsechna hlavni jidla (snidane, obed, vecere) jsou spolecna. samozrejme se to muz
 
 primarni motivaci je, ale byl neustale urcen nekdo zodpovedny za tyhle zakladni veci a ja mel k dispozici ostatni na pripadnou pomoc s lodi atd. ...plus se tim eliminuji nektere zbytecne diskuze. ;-)
 
+### nakup
+
 velky nakup vetsinou delame az v sibeniku tesne pred odjezdem, abychom nemeli preplnene auto, ale pokud ma nekdo tunu predvareneho jidla, samozrejme to vezmeme s sebou uz z prahy a cast nakupu pak odpadne. neni ale nutne to prilis resit predem - vse se da dokoupit na miste.
 
 jedinou vyjimkou je asi pivo, ktere je objektivne nejevnejsi v cesku. ale na druhou stranu, chorvatske vino taky neni spatne a je podstatne skladnejsi.
